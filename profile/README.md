@@ -1,6 +1,7 @@
 
 # Hey, this is us 👋
 
-![Banner GitHub](https://github.com/mazzocchibrothers/.github/assets/10761747/c7e13865-3e05-4c6d-ae7e-a9e2701be571)
+<img width="1584" alt="img-linkedin-accountbackground" src="https://github.com/user-attachments/assets/805f8620-a8af-4e96-af4b-9a4df015d705">
+
 
 ℹ️ For all the fish ( and more... ), please refer to the [Handbook](https://mazzocchibrothers.github.io/handbook/)
